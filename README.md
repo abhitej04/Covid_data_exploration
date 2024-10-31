@@ -6,3 +6,17 @@ Understand the structure and contents of the dataset.
 Clean and preprocess the data to ensure accuracy.
 
 Identify potential correlations and insights that could inform further analysis.
+
+## Skills  used-
+MY SQL
+
+MYSQL Workbench
+
+EXCEL 
+
+Data analytics 
+
+Data cleaning 
+
+Data preprocessing 
+
